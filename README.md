@@ -1,19 +1,3 @@
 # SimpleBlogPostApp
 
-# Problem Description 
-
-Using the endpoints found here https://jsonplaceholder.typicode.com build a simple application that shows a list of post and then a single post page with comments, you should be able to add new comment. Build a nice UI and the home page should have a search/filter field. You should also have a page to create a new post 
-
- 
- 
-
-# Implementation 1: 
-
-Use MVC architecture 
-
- 
- 
-
-# Implementation 2: 
-
-Use MVVM architecture 
+Using the endpoints found here https://jsonplaceholder.typicode.com and using MVVM architecture principles, I built a simple application that shows a list of posts and a single post page with random comments. Users can create new posts or comments in a new screen.
